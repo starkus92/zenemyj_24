@@ -1,6 +1,7 @@
 # zenemyj_24
 
-zenemyj_24 is a marth-based rapid prototyping machine. Its goal is to promote experiments and innovations in powder-based rapid-prototyping. The machine is ready to use.
+
+zenemyj_24 is a marth-based rapid prototyping machine focused on food. Its goal is to promote experiments and innovations in powder-based rapid-prototyping. The machine is ready to use.
 
 Hardware
 
