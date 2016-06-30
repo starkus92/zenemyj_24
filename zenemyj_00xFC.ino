@@ -11,7 +11,9 @@
      ----> https://github.com/starkus92/zenemyj_24 
                                                    
      @section HISTORY 
+     
      v2.3 -Exportar Data hacia txt
+          -Enseñando a fedor
      v2.2 -Incorporacion modulo SD
           -Funcion de DataLogger hacia SD
      v2.1 -Conexion hacia LCD 16x2
